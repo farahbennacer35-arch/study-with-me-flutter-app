@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809830295204",
+    "project_id": "studywithme-3da3e",
+    "storage_bucket": "studywithme-3da3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809830295204:android:4b77c0fd4507eb3140e831",
+        "android_client_info": {
+          "package_name": "com.example.study_with_me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmS-7g4QnG15niJSfao7lbgANnu0I1cw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
